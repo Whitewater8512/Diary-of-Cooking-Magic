@@ -27,6 +27,8 @@
 如上所述  
 
 ```
+那么接下来的所有日记都会以此为参考来完成  
+
 ## 参考文献
 * https://github.com/qhd1996/HowToCook
 * https://github.com/Anduin2017/HowToCook
